@@ -13,3 +13,7 @@ DB_USER = "Customer%20Orders%20Management%20System_owner"
 DB_PASSWORD = "npg_mkILy7YStWj4"
 DB_HOST = "ep-floral-truth-a4ws76ib-pooler.us-east-1.aws.neon.tech"
 
+root = tk.Tk()
+root.title("Customer Order Management System")
+root.geometry("600x600")
+root.mainloop()
