@@ -1,4 +1,4 @@
-# Customer Orders Management System
+# Customer Orders Management System - Final Exam
 
 ## Developer
 
@@ -18,13 +18,17 @@ For Database creation go to neon.tech website and create a new account or login 
 
 Get the creditentials by clicking connect.
 
-in you python file 
-
 ---
 
-## Usage
+## Usage and installation
 
-Downlod and extract the file and run python test.py in terminal.
+Downlod and extract the final.py file.
+
+open terminal in folder and run "pip install psycopg2" (if not already installed)
+
+In terminal run "python final.py"
+
+A window should open with app.
 
 ---
 
